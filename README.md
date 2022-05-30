@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on My Personal Projects
-- 🌱 I’m currently learning Front End Web Development
+- 🌱 I’m currently learning Front End Mobile Development
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/adventus-totti-mariano-simbolon-a87705211/" target="_blank">LinkedIn</a> | <a href="https://www.instagram.com/adventus.tms/">Instagram</a>
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adventus-tms&theme=algolia&show_icons=true)
